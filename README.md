@@ -2,7 +2,7 @@ Health Analytics Report: Key Findings on OCD Patients
 
 Overview
 
-This report summarizes the key demographic, temporal, and clinical findings derived from the provided health analytics dashboard concerning patients diagnosed with Obsessive-Compulsive Disorder (OCD).
+This report summarises the key demographic, temporal, and clinical findings derived from the provided health analytics dashboard concerning patients diagnosed with Obsessive-Compulsive Disorder (OCD).
 
 1. Patient Volume Trend (2013 – 2022)
 
